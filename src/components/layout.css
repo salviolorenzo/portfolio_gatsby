@@ -30,3 +30,8 @@ header h1 {
   justify-content: space-evenly;
   list-style-type: none;
 }
+
+.heroImage {
+  min-height: 500px;
+  min-width: 100%;
+}
